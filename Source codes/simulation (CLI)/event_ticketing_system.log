@@ -1,0 +1,656 @@
+Dec 11, 2024 4:54:41 PM Main main
+INFO: Configuration Settings
+Dec 11, 2024 4:54:41 PM Main main
+INFO: Total Tickets: 5
+Dec 11, 2024 4:54:41 PM Main main
+INFO: Max Ticket Capacity: 10
+Dec 11, 2024 4:54:41 PM Main main
+INFO: Vendor Ticket Release Rate: 30
+Dec 11, 2024 4:54:41 PM Main main
+INFO: Customer Retrieval Rate: 10
+Dec 11, 2024 4:54:41 PM Main main
+INFO: Number of Customers: 2
+Dec 11, 2024 4:54:44 PM Main userCommands
+INFO: Event ticketing process started.
+Dec 11, 2024 4:54:44 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 1
+Dec 11, 2024 4:54:44 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 0
+Dec 11, 2024 4:54:45 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 2
+Dec 11, 2024 4:54:45 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 0
+Dec 11, 2024 4:54:45 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 3
+Dec 11, 2024 4:54:45 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 0
+Dec 11, 2024 4:54:45 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 4
+Dec 11, 2024 4:54:46 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 0
+Dec 11, 2024 4:54:46 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 5
+Dec 11, 2024 4:54:46 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 2, Total tickets added : 6
+Dec 11, 2024 4:54:46 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 3, Total tickets added : 7
+Dec 11, 2024 4:54:46 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 2
+Dec 11, 2024 4:54:47 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 1
+Dec 11, 2024 4:54:47 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 2, Total tickets added : 8
+Dec 11, 2024 4:54:47 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 3, Total tickets added : 9
+Dec 11, 2024 4:54:47 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 4, Total tickets added : 10
+Dec 11, 2024 4:54:47 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 3
+Dec 11, 2024 4:54:48 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 2
+Dec 11, 2024 4:54:48 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 1
+Dec 11, 2024 4:54:49 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 0
+Dec 11, 2024 4:54:52 PM Main userCommands
+INFO: Event ticket processing stopped.
+Dec 11, 2024 4:56:28 PM Main main
+INFO: Configuration Settings
+Dec 11, 2024 4:56:28 PM Main main
+INFO: Total Tickets: 10
+Dec 11, 2024 4:56:28 PM Main main
+INFO: Max Ticket Capacity: 30
+Dec 11, 2024 4:56:28 PM Main main
+INFO: Vendor Ticket Release Rate: 40
+Dec 11, 2024 4:56:28 PM Main main
+INFO: Customer Retrieval Rate: 10
+Dec 11, 2024 4:56:28 PM Main main
+INFO: Number of Customers: 3
+Dec 11, 2024 4:56:30 PM Main userCommands
+INFO: Event ticketing process started.
+Dec 11, 2024 4:56:30 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 1
+Dec 11, 2024 4:56:30 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 0
+Dec 11, 2024 4:56:30 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 2
+Dec 11, 2024 4:56:30 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 3. Tickets remaining in the pool: 0
+Dec 11, 2024 4:56:30 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 3
+Dec 11, 2024 4:56:30 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 0
+Dec 11, 2024 4:56:31 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 4
+Dec 11, 2024 4:56:31 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 0
+Dec 11, 2024 4:56:31 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 5
+Dec 11, 2024 4:56:31 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 3. Tickets remaining in the pool: 0
+Dec 11, 2024 4:56:31 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 6
+Dec 11, 2024 4:56:31 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 0
+Dec 11, 2024 4:56:31 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 7
+Dec 11, 2024 4:56:32 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 2, Total tickets added : 8
+Dec 11, 2024 4:56:32 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 1
+Dec 11, 2024 4:56:32 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 2, Total tickets added : 9
+Dec 11, 2024 4:56:32 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 3. Tickets remaining in the pool: 1
+Dec 11, 2024 4:56:32 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 2, Total tickets added : 10
+Dec 11, 2024 4:56:32 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 1
+Dec 11, 2024 4:56:32 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 2, Total tickets added : 11
+Dec 11, 2024 4:56:33 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 3, Total tickets added : 12
+Dec 11, 2024 4:56:33 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 2
+Dec 11, 2024 4:56:33 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 3, Total tickets added : 13
+Dec 11, 2024 4:56:33 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 3. Tickets remaining in the pool: 2
+Dec 11, 2024 4:56:33 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 3, Total tickets added : 14
+Dec 11, 2024 4:56:33 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 2
+Dec 11, 2024 4:56:34 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 3, Total tickets added : 15
+Dec 11, 2024 4:56:34 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 4, Total tickets added : 16
+Dec 11, 2024 4:56:34 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 3
+Dec 11, 2024 4:56:34 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 4, Total tickets added : 17
+Dec 11, 2024 4:56:34 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 3. Tickets remaining in the pool: 3
+Dec 11, 2024 4:56:34 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 4, Total tickets added : 18
+Dec 11, 2024 4:56:34 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 3
+Dec 11, 2024 4:56:35 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 4, Total tickets added : 19
+Dec 11, 2024 4:56:35 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 5, Total tickets added : 20
+Dec 11, 2024 4:56:35 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 4
+Dec 11, 2024 4:56:35 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 5, Total tickets added : 21
+Dec 11, 2024 4:56:35 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 3. Tickets remaining in the pool: 4
+Dec 11, 2024 4:56:35 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 5, Total tickets added : 22
+Dec 11, 2024 4:56:35 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 4
+Dec 11, 2024 4:56:36 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 5, Total tickets added : 23
+Dec 11, 2024 4:56:36 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 6, Total tickets added : 24
+Dec 11, 2024 4:56:36 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 5
+Dec 11, 2024 4:56:36 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 6, Total tickets added : 25
+Dec 11, 2024 4:56:36 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 3. Tickets remaining in the pool: 5
+Dec 11, 2024 4:56:36 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 6, Total tickets added : 26
+Dec 11, 2024 4:56:36 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 5
+Dec 11, 2024 4:56:37 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 6, Total tickets added : 27
+Dec 11, 2024 4:56:37 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 7, Total tickets added : 28
+Dec 11, 2024 4:56:37 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 6
+Dec 11, 2024 4:56:37 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 7, Total tickets added : 29
+Dec 11, 2024 4:56:37 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 3. Tickets remaining in the pool: 6
+Dec 11, 2024 4:56:37 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 7, Total tickets added : 30
+Dec 11, 2024 4:56:37 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 6
+Dec 11, 2024 4:56:38 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 5
+Dec 11, 2024 4:56:38 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 3. Tickets remaining in the pool: 4
+Dec 11, 2024 4:56:39 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 3
+Dec 11, 2024 4:56:39 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 2
+Dec 11, 2024 4:56:39 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 3. Tickets remaining in the pool: 1
+Dec 11, 2024 4:56:40 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 0
+Dec 11, 2024 4:56:43 PM Main userCommands
+INFO: Event ticket processing stopped.
+Dec 11, 2024 5:45:13 PM Main main
+INFO: Configuration Settings
+Dec 11, 2024 5:45:13 PM Main main
+INFO: Total Tickets: 10
+Dec 11, 2024 5:45:13 PM Main main
+INFO: Max Ticket Capacity: 30
+Dec 11, 2024 5:45:13 PM Main main
+INFO: Vendor Ticket Release Rate: 40
+Dec 11, 2024 5:45:13 PM Main main
+INFO: Customer Retrieval Rate: 10
+Dec 11, 2024 5:45:13 PM Main main
+INFO: Number of Customers: 2
+Dec 11, 2024 5:45:16 PM Main userCommands
+INFO: Event ticketing process started.
+Dec 11, 2024 5:45:16 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 1
+Dec 11, 2024 5:45:16 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 0
+Dec 11, 2024 5:45:16 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 2
+Dec 11, 2024 5:45:16 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 0
+Dec 11, 2024 5:45:17 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 3
+Dec 11, 2024 5:45:17 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 2, Total tickets added : 4
+Dec 11, 2024 5:45:17 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 1
+Dec 11, 2024 5:45:17 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 2, Total tickets added : 5
+Dec 11, 2024 5:45:17 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 1
+Dec 11, 2024 5:45:17 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 2, Total tickets added : 6
+Dec 11, 2024 5:45:18 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 3, Total tickets added : 7
+Dec 11, 2024 5:45:18 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 4, Total tickets added : 8
+Dec 11, 2024 5:45:18 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 3
+Dec 11, 2024 5:45:18 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 4, Total tickets added : 9
+Dec 11, 2024 5:45:18 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 3
+Dec 11, 2024 5:45:19 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 4, Total tickets added : 10
+Dec 11, 2024 5:45:19 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 5, Total tickets added : 11
+Dec 11, 2024 5:45:19 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 6, Total tickets added : 12
+Dec 11, 2024 5:45:19 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 5
+Dec 11, 2024 5:45:19 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 6, Total tickets added : 13
+Dec 11, 2024 5:45:19 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 5
+Dec 11, 2024 5:45:20 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 6, Total tickets added : 14
+Dec 11, 2024 5:45:20 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 7, Total tickets added : 15
+Dec 11, 2024 5:45:20 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 8, Total tickets added : 16
+Dec 11, 2024 5:45:20 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 7
+Dec 11, 2024 5:45:20 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 8, Total tickets added : 17
+Dec 11, 2024 5:45:20 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 7
+Dec 11, 2024 5:45:21 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 8, Total tickets added : 18
+Dec 11, 2024 5:45:21 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 9, Total tickets added : 19
+Dec 11, 2024 5:45:21 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 10, Total tickets added : 20
+Dec 11, 2024 5:45:21 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 9
+Dec 11, 2024 5:45:21 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 10, Total tickets added : 21
+Dec 11, 2024 5:45:21 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 9
+Dec 11, 2024 5:45:22 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 10, Total tickets added : 22
+Dec 11, 2024 5:45:22 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 9
+Dec 11, 2024 5:45:22 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 10, Total tickets added : 23
+Dec 11, 2024 5:45:22 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 9
+Dec 11, 2024 5:45:22 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 10, Total tickets added : 24
+Dec 11, 2024 5:45:23 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 9
+Dec 11, 2024 5:45:23 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 10, Total tickets added : 25
+Dec 11, 2024 5:45:23 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 9
+Dec 11, 2024 5:45:23 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 10, Total tickets added : 26
+Dec 11, 2024 5:45:24 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 9
+Dec 11, 2024 5:45:24 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 10, Total tickets added : 27
+Dec 11, 2024 5:45:24 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 9
+Dec 11, 2024 5:45:24 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 10, Total tickets added : 28
+Dec 11, 2024 5:45:25 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 9
+Dec 11, 2024 5:45:25 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 10, Total tickets added : 29
+Dec 11, 2024 5:45:26 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 9
+Dec 11, 2024 5:45:26 PM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 10, Total tickets added : 30
+Dec 11, 2024 5:45:26 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 9
+Dec 11, 2024 5:45:27 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 8
+Dec 11, 2024 5:45:27 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 7
+Dec 11, 2024 5:45:28 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 6
+Dec 11, 2024 5:45:28 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 5
+Dec 11, 2024 5:45:29 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 4
+Dec 11, 2024 5:45:29 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 3
+Dec 11, 2024 5:45:30 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 2
+Dec 11, 2024 5:45:30 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 1
+Dec 11, 2024 5:45:31 PM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 0
+Dec 11, 2024 5:45:39 PM Main userCommands
+INFO: Event ticket processing stopped.
+Dec 12, 2024 12:49:19 AM Main main
+INFO: Configuration Settings
+Dec 12, 2024 12:49:19 AM Main main
+INFO: Total Tickets: 5
+Dec 12, 2024 12:49:19 AM Main main
+INFO: Max Ticket Capacity: 20
+Dec 12, 2024 12:49:19 AM Main main
+INFO: Vendor Ticket Release Rate: 40
+Dec 12, 2024 12:49:19 AM Main main
+INFO: Customer Retrieval Rate: 10
+Dec 12, 2024 12:49:19 AM Main main
+INFO: Number of Customers: 3
+Dec 12, 2024 12:49:23 AM Main userCommands
+INFO: Event ticketing process started.
+Dec 12, 2024 12:49:23 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 1
+Dec 12, 2024 12:49:23 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 0
+Dec 12, 2024 12:49:23 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 2
+Dec 12, 2024 12:49:23 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 0
+Dec 12, 2024 12:49:24 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 3
+Dec 12, 2024 12:49:24 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 3. Tickets remaining in the pool: 0
+Dec 12, 2024 12:49:24 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 4
+Dec 12, 2024 12:49:24 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 0
+Dec 12, 2024 12:49:24 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 5
+Dec 12, 2024 12:49:24 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 0
+Dec 12, 2024 12:49:24 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 6
+Dec 12, 2024 12:49:25 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 3. Tickets remaining in the pool: 0
+Dec 12, 2024 12:49:25 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 7
+Dec 12, 2024 12:49:25 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 2, Total tickets added : 8
+Dec 12, 2024 12:49:25 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 1
+Dec 12, 2024 12:49:25 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 2, Total tickets added : 9
+Dec 12, 2024 12:49:25 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 1
+Dec 12, 2024 12:49:25 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 2, Total tickets added : 10
+Dec 12, 2024 12:49:26 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 3. Tickets remaining in the pool: 1
+Dec 12, 2024 12:49:26 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 2, Total tickets added : 11
+Dec 12, 2024 12:49:26 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 3, Total tickets added : 12
+Dec 12, 2024 12:49:26 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 2
+Dec 12, 2024 12:49:26 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 3, Total tickets added : 13
+Dec 12, 2024 12:49:26 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 2
+Dec 12, 2024 12:49:27 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 3, Total tickets added : 14
+Dec 12, 2024 12:49:27 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 3. Tickets remaining in the pool: 2
+Dec 12, 2024 12:49:27 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 3, Total tickets added : 15
+Dec 12, 2024 12:49:27 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 4, Total tickets added : 16
+Dec 12, 2024 12:49:27 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 3
+Dec 12, 2024 12:49:27 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 4, Total tickets added : 17
+Dec 12, 2024 12:49:27 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 3
+Dec 12, 2024 12:49:28 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 4, Total tickets added : 18
+Dec 12, 2024 12:49:28 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 3. Tickets remaining in the pool: 3
+Dec 12, 2024 12:49:28 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 4, Total tickets added : 19
+Dec 12, 2024 12:49:28 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 5, Total tickets added : 20
+Dec 12, 2024 12:49:28 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 4
+Dec 12, 2024 12:49:28 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 3
+Dec 12, 2024 12:49:29 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 3. Tickets remaining in the pool: 2
+Dec 12, 2024 12:49:29 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 1
+Dec 12, 2024 12:49:29 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 0
+Dec 12, 2024 12:50:12 AM Main userCommands
+INFO: Event ticket processing stopped.
+Dec 12, 2024 1:01:41 AM Main main
+INFO: Configuration Settings
+Dec 12, 2024 1:01:42 AM Main main
+INFO: Total Tickets: 5
+Dec 12, 2024 1:01:42 AM Main main
+INFO: Max Ticket Capacity: 20
+Dec 12, 2024 1:01:42 AM Main main
+INFO: Vendor Ticket Release Rate: 40
+Dec 12, 2024 1:01:42 AM Main main
+INFO: Customer Retrieval Rate: 10
+Dec 12, 2024 1:01:42 AM Main main
+INFO: Number of Customers: 3
+Dec 12, 2024 1:01:45 AM Main userCommands
+INFO: Event ticketing process started.
+Dec 12, 2024 1:01:45 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 1
+Dec 12, 2024 1:01:45 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 0
+Dec 12, 2024 1:01:46 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 2
+Dec 12, 2024 1:01:46 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 0
+Dec 12, 2024 1:01:46 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 3
+Dec 12, 2024 1:01:46 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 3. Tickets remaining in the pool: 0
+Dec 12, 2024 1:01:46 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 4
+Dec 12, 2024 1:01:46 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 0
+Dec 12, 2024 1:01:46 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 5
+Dec 12, 2024 1:01:47 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 0
+Dec 12, 2024 1:01:47 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 6
+Dec 12, 2024 1:01:47 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 3. Tickets remaining in the pool: 0
+Dec 12, 2024 1:01:47 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 7
+Dec 12, 2024 1:01:47 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 2, Total tickets added : 8
+Dec 12, 2024 1:01:47 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 1
+Dec 12, 2024 1:01:47 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 2, Total tickets added : 9
+Dec 12, 2024 1:01:48 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 1
+Dec 12, 2024 1:01:48 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 2, Total tickets added : 10
+Dec 12, 2024 1:01:48 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 3. Tickets remaining in the pool: 1
+Dec 12, 2024 1:01:48 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 2, Total tickets added : 11
+Dec 12, 2024 1:01:48 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 3, Total tickets added : 12
+Dec 12, 2024 1:01:48 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 2
+Dec 12, 2024 1:01:48 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 3, Total tickets added : 13
+Dec 12, 2024 1:01:49 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 2
+Dec 12, 2024 1:01:49 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 3, Total tickets added : 14
+Dec 12, 2024 1:01:49 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 3. Tickets remaining in the pool: 2
+Dec 12, 2024 1:01:49 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 3, Total tickets added : 15
+Dec 12, 2024 1:01:49 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 4, Total tickets added : 16
+Dec 12, 2024 1:01:49 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 3
+Dec 12, 2024 1:01:49 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 4, Total tickets added : 17
+Dec 12, 2024 1:01:50 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 3
+Dec 12, 2024 1:01:50 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 4, Total tickets added : 18
+Dec 12, 2024 1:01:50 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 3. Tickets remaining in the pool: 3
+Dec 12, 2024 1:01:50 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 4, Total tickets added : 19
+Dec 12, 2024 1:01:50 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 5, Total tickets added : 20
+Dec 12, 2024 1:01:50 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 4
+Dec 12, 2024 1:01:51 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 3
+Dec 12, 2024 1:01:51 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 3. Tickets remaining in the pool: 2
+Dec 12, 2024 1:01:51 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 1
+Dec 12, 2024 1:01:52 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 0
+Dec 12, 2024 1:02:17 AM Main userCommands
+INFO: Event ticket processing stopped.
+Jan 21, 2025 11:05:48 AM Main main
+INFO: Configuration Settings
+Jan 21, 2025 11:05:48 AM Main main
+INFO: Total Tickets: 10
+Jan 21, 2025 11:05:48 AM Main main
+INFO: Max Ticket Capacity: 30
+Jan 21, 2025 11:05:48 AM Main main
+INFO: Vendor Ticket Release Rate: 10
+Jan 21, 2025 11:05:48 AM Main main
+INFO: Customer Retrieval Rate: 20
+Jan 21, 2025 11:05:48 AM Main main
+INFO: Number of Customers: 2
+Jan 21, 2025 11:05:51 AM Main userCommands
+INFO: Event ticketing process started.
+Jan 21, 2025 11:05:51 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 1
+Jan 21, 2025 11:05:51 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 0
+Jan 21, 2025 11:05:52 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 2
+Jan 21, 2025 11:05:52 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 0
+Jan 21, 2025 11:05:53 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 3
+Jan 21, 2025 11:05:53 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 0
+Jan 21, 2025 11:05:54 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 4
+Jan 21, 2025 11:05:54 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 0
+Jan 21, 2025 11:05:55 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 5
+Jan 21, 2025 11:05:55 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 0
+Jan 21, 2025 11:05:56 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 6
+Jan 21, 2025 11:05:56 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 0
+Jan 21, 2025 11:05:57 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 7
+Jan 21, 2025 11:05:57 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 0
+Jan 21, 2025 11:05:58 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 8
+Jan 21, 2025 11:05:58 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 0
+Jan 21, 2025 11:05:59 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 9
+Jan 21, 2025 11:05:59 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 0
+Jan 21, 2025 11:06:00 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 10
+Jan 21, 2025 11:06:00 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 0
+Jan 21, 2025 11:06:01 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 11
+Jan 21, 2025 11:06:01 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 0
+Jan 21, 2025 11:06:02 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 12
+Jan 21, 2025 11:06:02 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 0
+Jan 21, 2025 11:06:03 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 13
+Jan 21, 2025 11:06:03 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 0
+Jan 21, 2025 11:06:04 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 14
+Jan 21, 2025 11:06:04 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 0
+Jan 21, 2025 11:06:05 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 15
+Jan 21, 2025 11:06:05 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 0
+Jan 21, 2025 11:06:06 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 16
+Jan 21, 2025 11:06:06 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 0
+Jan 21, 2025 11:06:07 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 17
+Jan 21, 2025 11:06:07 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 0
+Jan 21, 2025 11:06:08 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 18
+Jan 21, 2025 11:06:08 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 0
+Jan 21, 2025 11:06:09 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 19
+Jan 21, 2025 11:06:09 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 0
+Jan 21, 2025 11:06:10 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 20
+Jan 21, 2025 11:06:10 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 0
+Jan 21, 2025 11:06:11 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 21
+Jan 21, 2025 11:06:11 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 0
+Jan 21, 2025 11:06:12 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 22
+Jan 21, 2025 11:06:12 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 0
+Jan 21, 2025 11:06:13 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 23
+Jan 21, 2025 11:06:13 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 0
+Jan 21, 2025 11:06:14 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 24
+Jan 21, 2025 11:06:14 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 0
+Jan 21, 2025 11:06:15 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 25
+Jan 21, 2025 11:06:15 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 0
+Jan 21, 2025 11:06:16 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 26
+Jan 21, 2025 11:06:16 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 0
+Jan 21, 2025 11:06:17 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 27
+Jan 21, 2025 11:06:17 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 0
+Jan 21, 2025 11:06:18 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 28
+Jan 21, 2025 11:06:18 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 0
+Jan 21, 2025 11:06:19 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 29
+Jan 21, 2025 11:06:19 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 1. Tickets remaining in the pool: 0
+Jan 21, 2025 11:06:20 AM TicketPool addTicket
+INFO: 1 Ticket added. Available tickets in the ticket pool: 1, Total tickets added : 30
+Jan 21, 2025 11:06:20 AM TicketPool removeTicket
+INFO: 1 Ticket purchased by Customer 2. Tickets remaining in the pool: 0
+Jan 21, 2025 11:06:48 AM Main userCommands
+INFO: Event ticket processing stopped.
